@@ -24,3 +24,8 @@ p {
  color: white;   
  font-size: 30px;
 }
+.water {
+ width: 55px;   
+ position: absolute;
+ bottom: 0px;
+}
